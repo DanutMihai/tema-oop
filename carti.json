@@ -1,0 +1,37 @@
+{
+    "biblioteca": {
+      "carti": [
+        {
+          "titlu": "Calatoria Cunoasterii",
+          "autor": "Irina Popescu",
+          "domeniu": "Literatura Educationala",
+          "cota": "Edu-001",
+          "imprumutata": "Nu"
+        },
+        {
+          "titlu": "Istoria Moderna a Europei",
+          "autor": "George Ionescu",
+          "domeniu": "Istorie",
+          "cota": "Ist-102",
+          "imprumutata": "Da",
+          "zile_imprumut": 14
+        },
+        {
+          "titlu": "Misterele Cosmosului",
+          "autor": "Ana Dumitrescu",
+          "domeniu": "Astronomie",
+          "cota": "Ast-203",
+          "imprumutata": "Da",
+          "zile_imprumut": 7
+        },
+        {
+          "titlu": "Franta",
+          "autor": "George Ionescu",
+          "domeniu": "Istorie",
+          "cota": "Ist-103",
+          "imprumutata": "Da",
+          "zile_imprumut": 15
+        }
+      ]
+    }
+  }
